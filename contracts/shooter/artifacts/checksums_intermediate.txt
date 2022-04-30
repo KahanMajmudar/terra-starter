@@ -1,0 +1,1 @@
+593d59b545531b37f7da58ff3a6765a366b3577e2350cff1d246945bfe8b3ab8  ./target/wasm32-unknown-unknown/release/shooter.wasm

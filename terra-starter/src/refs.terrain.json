@@ -1,0 +1,18 @@
+{
+  "localterra": {
+    "shooter": {
+      "codeId": "8",
+      "contractAddresses": {
+        "default": "terra1l09lzlktar3m0hth59z3se86fsyz084map2yln"
+      }
+    }
+  },
+  "testnet": {
+    "shooter": {
+      "codeId": "67770",
+      "contractAddresses": {
+        "default": "terra1fmwuy93ju6d4ualn0plx2x3kmx5ea4qgjmzx3g"
+      }
+    }
+  }
+}
